@@ -1,0 +1,6 @@
+{
+  "name": "Spanish for Armenian Speakers",
+  "description": "An interactive application to learn Spanish sentence construction, vocabulary, and dialogues through Armenian with educational games and an AI tutor helper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
