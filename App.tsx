@@ -286,7 +286,7 @@ export default function App() {
             {activeView === "practice" && "Կառուցիր Նախադասություններ"}
             {activeView === "dialogues" && "Արտահայտությունների խաղ"}
             {activeView === "vocabulary" && "Բառախաղ և Մարզում"}
-            {activeView === "ai-tutor" && "AI-Օգնական Ուսուցիչ"}
+            {activeView === "ai-tutor" && ""}
           </h1>
 
           <div className="flex items-center gap-4">
@@ -310,7 +310,7 @@ export default function App() {
               <div className="text-center max-w-3xl mx-auto space-y-4 pt-4">
                 <span className="inline-flex items-center gap-1 text-xs font-semibold px-3 py-1 bg-sky-100 text-sky-700 rounded-full tracking-wider uppercase border border-sky-200">
                   <Sparkles className="w-3.5 h-3.5" />
-                  Ինտերակտիվ և AI Ուսուցում
+                  Ինտերակտիվ ուսուցում
                 </span>
                 <h2 className="text-3xl md:text-5xl font-black text-sky-950 tracking-tight leading-tight">
                   Սովորեք կառուցել <span className="bg-clip-text text-transparent bg-gradient-to-r from-sky-600 to-indigo-600">իսպաներեն</span> նախադասություններ
